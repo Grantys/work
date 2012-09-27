@@ -1,0 +1,2 @@
+I'm started to learn Java, this is the main reason why i used this language to solve the scripting task.
+Java gave me a new challange to write this script, and it was fun.
