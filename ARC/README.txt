@@ -6,7 +6,7 @@ Use this in Command line:
 
 java Converter PATH_FOR_THE_INPUT_TXT_FILE
 
-For example, if you have the input file on your C Drive callaed input.txt use this:
+For example, if you have the input file on your C Drive called input.txt use this:
 
 java Converter C:\input.txt
 
